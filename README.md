@@ -11,6 +11,8 @@ The starter template for [Hugo Bootstrap Theme](https://github.com/razonyang/hug
 | Cloudflare Pages | https://hbs-skeleton.pages.dev/ |
 | Docker image | See also [Dockerfile](Dockerfile) |
 
+@Zub i am using Netlify here
+
 ## Usage
 
 Please make sure you have install the [build tools](https://hbs.razonyang.com/v1/en/docs/getting-started/prerequisites/#build-tools) prior to using this template.
@@ -18,17 +20,7 @@ Please make sure you have install the [build tools](https://hbs.razonyang.com/v1
 **1. Clone this repository**
 
 It's recommending cloning the repo by clicking the `Use this template` button, if you're hosting your code on GitHub.
-
-You can also clone it manually.
-
-```shell
-$ git clone https://github.com/razonyang/hugo-theme-bootstrap-skeleton.git blog
-$ cd blog
-$ rm -rf .git
-$ git init -b main
-```
-
-> The `rm -rf .git` is a dangerous action, please make sure that you enter the right folder.
+@Zub : this is a must. i do it 03/03/2023
 
 **2. Modify the `go.mod`**
 
@@ -47,24 +39,6 @@ $ git remote set-url origin github.com/user/repo
 $ git push origin main
 ```
 
-## Go Proxy(Optional)
-
-If you're located at China mainland without VPN, the Hugo module download may fail.
-
-There are two proxies for this: [GOPROXY.CN](https://goproxy.cn) and [GOPROXY.IO](https://goproxy.io).
-
-```bash
-$ export HUGO_MODULE_PROXY=https://goproxy.cn
-```
-
-> Please note that, Hugo doesn't respect the `GOPROXY` env var, please use `HUGO_MODULE_PROXY` instead.
-
-You can also set the `module.proxy` instead of using env var.
-
-```yaml
-module:
-  proxy: https://goproxy.cn
-```
 
 ## Server
 
