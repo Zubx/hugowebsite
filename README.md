@@ -20,6 +20,7 @@ Please make sure you have install the [build tools](https://hbs.razonyang.com/v1
 **1. Clone this repository**
 
 It's recommending cloning the repo by clicking the `Use this template` button, if you're hosting your code on GitHub.
+
 @Zub : this is a must. i do it 03/03/2023
 
 **2. Modify the `go.mod`**
@@ -74,6 +75,8 @@ You can also replace the `master` with stable [releases](https://github.com/razo
 
 **Please make sure you've change the `baseURL` on `config/production/config.yaml` before deploying your site.**
 
+DONT FORGET
+
 **Please also remove the `-b {url}` from the following files if you're using this template.**
 
 - `.github/workflows/gh-pages.yml`
@@ -91,5 +94,3 @@ There are some hooks under the `layouts/partials/hooks` folder for showing how t
 ## Documentations
 
 - [English](https://hbs.razonyang.com/v1/en/)
-- [简体中文](https://hbs.razonyang.com/v1/zh-hans/)
-- [繁體中文](https://hbs.razonyang.com/v1/zh-hant/)
