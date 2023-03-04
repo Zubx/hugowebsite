@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: zubdev.online/sitemap.xml
+Sitemap: https://zubdev.online/sitemap.xml
