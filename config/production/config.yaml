@@ -1,5 +1,2 @@
 baseURL: zubdev.online
 googleAnalytics: 
-
-build:
-  writeStats: true
