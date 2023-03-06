@@ -54,7 +54,7 @@ googleAdsense:
 
 # poweredBy: false # Whether to show powered by.
 
-# readingTime: false # Whether to display the reading time.
+readingTime: false # Whether to display the reading time.
 # postDate: false # Whether to display the post date in the post meta section.
 
 # featuredPostCount: 10 # The number of featured posts shown in sidebar. Turn off by setting it to false.
@@ -144,9 +144,9 @@ creativeCommons:
   # sa: true # Adaptations must be shared under the same terms.
 
 utterances:
-  repo: razonyang/hugo-theme-bootstrap-skeleton # Replace with your repository.
-  #issueTerm: pathname # pathname, url, title, og:title
-  label: comment
+  repo: Zubx/hugowebsite # Replace with your repository.
+  issueTerm: pathname # pathname, url, title, og:title
+  label: 💬
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
   # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
   #theme:  

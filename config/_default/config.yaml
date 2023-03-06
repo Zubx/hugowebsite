@@ -5,9 +5,9 @@ copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
 defaultContentLanguage: en
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
-# disableLanguages:
+disableLanguages:
 #  - fr
-#  - zh-cn
+  - zh-cn
 #  - zh-tw
 paginate: 10
 # paginatePath: page
