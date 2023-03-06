@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cheery-figolla-25eed6.netlify.app/sitemap.xml
+Sitemap: https://zubdev.online/sitemap.xml
