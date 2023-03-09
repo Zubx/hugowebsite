@@ -25,6 +25,8 @@ images: []
 
 Since `v1.0.0-alpha.1`, HBS supports much more image processing methods. Such as Crop, Fit and Fill images. You can also apply filters on an image.
 
+
+![Resize](featured-sample.webp?width=300px#center)
 <!--more-->
 
 See also [Image Processing](https://hbs.razonyang.com/v1/en/docs/image-processing/).
