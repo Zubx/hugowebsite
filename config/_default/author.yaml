@@ -1,8 +1,8 @@
-name: Razon Yang
+name: Zubair Abdullah
 # avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
-bio: 'Gopher, PHPer, Full Stack Engineer.'
-company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
-location: Earth # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
+bio: 'Data Analyst,System Design,Cloud Solution Architect.'
+company: INGCO Tools Indonesia # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+location: Tangerang # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
 # about: https://razonyang.com # The external about page. The internal about page will be used if not set.
 params: {
   # layout: compact
@@ -11,7 +11,7 @@ params: {
 social:
   email: zub.ingco@gmail.com
   github: Zubx/hugowebsite
-  twitter: razonyang
-  patreon: razonyang
-  paypal: razonyang
+  twitter: zubairabd
+  patreon: zubairabd
+  paypal: zubairabd
   rss: "" # Remove RSS
