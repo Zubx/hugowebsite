@@ -1,6 +1,6 @@
 ---
 title: Zubair Abdullah
-description: Data Analyst, Cloud Solution Architect.
+description: Data Analyst,System Design,Cloud Solution Architect.
 social:
   github: Zubx
   twitter: razonyang
