@@ -3,9 +3,9 @@ title: Zubair Abdullah
 description: Data Analyst,System Design,Cloud Solution Architect.
 social:
   github: Zubx
-  twitter: razonyang
+  twitter: ZubairAbd
   email: Zub.ingco@gmail.com
-  website: https://razonyang.com/
-  patreon: razonyang
-  paypal: razonyang
+  website: https://zubdev.online/
+  patreon: zubairabd
+  paypal: zubairabd
 ---
